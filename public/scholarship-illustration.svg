@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background Circle -->
+        <circle fill="#E3F2FD" cx="400" cy="300" r="250"/>
+        
+        <!-- Graduation Cap -->
+        <path d="M300,200 L500,200 L450,300 L350,300 Z" fill="#2196F3"/>
+        <path d="M400,200 L400,350" stroke="#2196F3" stroke-width="4"/>
+        <circle cx="400" cy="350" r="20" fill="#2196F3"/>
+        
+        <!-- Chat Bubbles -->
+        <path d="M200,400 Q250,350 300,400 Q350,450 300,500 L200,500 Z" fill="#90CAF9"/>
+        <path d="M500,400 Q550,350 600,400 Q650,450 600,500 L500,500 Z" fill="#90CAF9"/>
+        
+        <!-- Stars -->
+        <path d="M150,150 L160,180 L190,180 L165,195 L175,225 L150,210 L125,225 L135,195 L110,180 L140,180 Z" fill="#FFC107"/>
+        <path d="M650,150 L660,180 L690,180 L665,195 L675,225 L650,210 L625,225 L635,195 L610,180 L640,180 Z" fill="#FFC107"/>
+    </g>
+</svg> 
